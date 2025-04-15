@@ -8,7 +8,7 @@ This project is a FastAPI-based backend application with PostgreSQL as the datab
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/BhosaleAkshay8055/Task.git
 cd your-repo-name
 2. Create and Activate a Virtual Environment
 On Windows
