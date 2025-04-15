@@ -1,13 +1,14 @@
 ## First clone this repo and then create virtual env
 
 command:
-'''
+'''bash
 python -m venv myenv
 
 cd myenv/Scripts
 
 ./activate    
 ```
+```bash
 
 # required permission then run below command
 
